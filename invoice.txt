@@ -1,0 +1,15 @@
+Customer Name: uday
+Phone Number: 7993479973
+Date: 2025-06-21 11:05:51
+Order Id: 202506211105519
+
+Products Ordered:
+SamsungS22 x 1-W/S/ED-2 :$	25000.00
+Note: Warranty various as per product. W-Warranty, S-Size,ED-Expiry Days
+----------------------------------------------------------
+Subtotal: $25000.00
+GST (10%): $2500.00
+----------------------------------------------------------
+Total Amount: $27500.00
+----------------------------------------------------------
+Thank You Visit Again!
